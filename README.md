@@ -47,3 +47,42 @@ This repository includes:
 
 ```bash
 python filename.py
+```
+
+Example:
+
+```bash
+python week6_json_sample_manager.py
+```
+
+## Project Status
+
+This repository is currently a learning and practice repository. The projects are being improved progressively as I build stronger programming, backend, and fullstack development skills.
+
+## What I Am Learning
+
+Through this repository, I am learning how to:
+
+- write clean Python code
+- organize programs into functions
+- validate user input
+- store and retrieve data using files and JSON
+- use Git for version control
+- publish code to GitHub
+- build beginner command-line applications
+
+## Future Improvements
+
+Planned improvements include:
+
+- Better project folder organization
+- More complete CLI applications
+- JSON-based CRUD features
+- Unit testing
+- SQL and database integration
+- Django and backend development
+- Frontend integration later
+
+## Author
+
+Kwadwo Safo

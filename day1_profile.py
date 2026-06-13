@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+country = input("Enter your country: ")
+profession = input("Enter your profession: ")
+goal = input("Enter your learning goals: ")
+
+print()
+print("Profile Summary")
+print(f"Name: {name}")
+print(f"Country: {country}")
+print(f"Profession: {profession}")
+print(f"Learning Goal: {goal}")

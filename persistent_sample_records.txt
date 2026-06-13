@@ -1,0 +1,28 @@
+Sample Record
+Sample ID: S001
+Patient Name: Ama Mensah
+Test Name: Fasting Blood Sugar
+Result Value: 95.0
+Interpretation: Normal
+------------------------------
+Sample Record
+Sample ID: S002
+Patient Name: Kojo Boateng
+Test Name: Fasting Blood Sugar
+Result Value: 65.0
+Interpretation: Low
+------------------------------
+Sample Record
+Sample ID: S003
+Patient Name: Abena Owusu
+Test Name: Fasting Blood Sugar
+Result Value: 120.0
+Interpretation: High
+------------------------------
+Sample Record
+Sample ID: S004
+Patient Name: Kwadwo Safo
+Test Name: Fasting Blood Sugar
+Result Value: 100.0
+Interpretation: Normal
+------------------------------

@@ -1,0 +1,23 @@
+[
+    {
+        "sample_id": "S001",
+        "patient_name": "Ama Mensah",
+        "test_name": "Fasting Blood Sugar",
+        "result_value": 95.0,
+        "interpretation": "Normal"
+    },
+    {
+        "sample_id": "S002",
+        "patient_name": "Kojo Boateng",
+        "test_name": "Fasting Blood Sugar",
+        "result_value": 85.0,
+        "interpretation": "Normal"
+    },
+    {
+        "sample_id": "S003",
+        "patient_name": "Owura Safo",
+        "test_name": "Fasting Blood Sugar",
+        "result_value": 100.0,
+        "interpretation": "Normal"
+    }
+]
